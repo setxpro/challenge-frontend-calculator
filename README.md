@@ -43,4 +43,4 @@ Enviar o link do repositório para o e-mail: ```allan.franca@bagaggio.com.br```
 	Quem tiver Discord e deseja tirar alguma dúvida.
 	Acesse clicando no link abaixo.
 </p>
-<a href="https://discord.gg/Em6xNMn2">Ir para o Discord</a>
+<a href="https://discord.com/invite/nVYXMxnh">Ir para o Discord</a>
